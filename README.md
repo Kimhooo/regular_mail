@@ -2,7 +2,7 @@
 定时发送邮件
 
 ### 效果图<br>
-![](https://github.com/Kimhooo/regular_mail/blob/main/regular_mail.png)
+![](https://github.com/Kimhooo/regular_mail/blob/main/preview.png)
 
 ### 实现原理
 其实就是一个py脚本，将调用接口返回的结果填入模板中，然后设定一个windows定时任务到点发送即可。
